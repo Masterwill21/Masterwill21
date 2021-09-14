@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Masterwill21
+- :sunglasses: Hi, I’m @Masterwill21
 - 👀 I’m interested in coding, modding and tech.
 - 🌱 I’m currently learning Python, Java, HTML, CSS, PHP and others
 - 💞️ I'm looking to graduate from MisionTic 2022
